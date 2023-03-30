@@ -8,11 +8,11 @@
 </a>
 </p>
 <h1 align="center">
-  <b>Suresh Srinivasan</b>
+  <b>Suresh Sravanam</b>
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Suresh having an experience of 5+ years in React Native
+Hi, I'm Suresh having an experience of 2+ years in React Native
 </br>
 </br>
 
