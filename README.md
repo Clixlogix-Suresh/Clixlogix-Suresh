@@ -34,6 +34,6 @@ Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.c
 <b>Statics:</b>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Clixlogix-Suresh&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-clixlogix&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Clixlogix-Suresh&theme=gruvbox&hide_border=true" />
 </p>
 <br>
